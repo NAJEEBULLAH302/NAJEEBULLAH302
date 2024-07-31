@@ -2,11 +2,11 @@
 
 <h1 align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+Myself+SalmanMalik!;Great+to+Have+You+Here!&center=true&size=25">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+Myself+NajeebUllah;Great+to+Have+You+Here!&center=true&size=25">
   </a>
 </h1>
 
-<h1 align="center">Hi 👋, I'm Salman Malik</h1>
+<h1 align="center">Hi 👋, I'AM NAJEEB ULLAH</h1>
 <h3 align="center">A passionate Software Engineer From Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salman7292&label=Profile%20views&color=0e75b6&style=flat" alt="salman7292" /> </p>
@@ -18,14 +18,14 @@
 
 <H1>About Me:</H1>  
 <img align="right" alt="Coding" width="200" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" />
-<P>I'm a dedicated Python programmer with expertise in developing applications using Streamlit. My passion lies in the fields of Machine Learning and Deep Learning, where I constantly explore and implement cutting-edge techniques. I specialize in predictive analytics and enjoy creating robust models to solve real-world problems. With a strong foundation in AI, I am committed to advancing my knowledge and contributing to the open-source community.</P>
+<P>Najeeb Ullah, a Software Engineering student at University of Malakand, with a strong passion for cybersecurity and penetration testing. I'm dedicated to identifying and mitigating system vulnerabilities, and continuously expanding my knowledge to create secure and innovative software systems that can withstand emerging cyber threats.".</P>
 
 
-- 🔭 I’m currently working on **To implementing AI into webapp**
+- 🔭 I’m currently working on **RED TEAMING **
 
-- 💬 Ask me about **Python Programming ,Api Integration,ML Models**
+- 💬 Ask me about **FIND SYSTEM VULNERABILITY ,ATTACK SURFACE ,CTF**
 
-- 📫 How to reach me **Salmanuom04@gmail.com**
+- 📫 How to reach me **najeebjr302@gmail.com**
 
    
 <hr style="border: none; height: 2px; background: linear-gradient(90deg, rgba(216,82,82,1) 13%, rgba(237,242,6,1) 57%);" />
@@ -35,10 +35,10 @@ Join me on The following Platforms, where I share insights, victories, and even 
 <br>
 <br>
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-salman-036b27284/)
-[![Facebook Badge](https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100014422202716)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/salmanbunery230/)
-[![YouTube Badge](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@learnwithsalaman)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/najeeb-ullah-998409261)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/DEATHLIFE16.3950)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/najeebullah16556/)
+[![YouTube Badge](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](www.youtube.com/@Cyber16.groups)
 
 <hr style="border: none; height: 2px; background: linear-gradient(90deg, rgba(216,82,82,1) 13%, rgba(237,242,6,1) 57%);" />
 
@@ -55,7 +55,7 @@ Join me on The following Platforms, where I share insights, victories, and even 
 
   
 
-### Best frameworks and main libraries for Machine Learning and Deep Learning:
+### Best tool for pentration testing manualy and utomated tool:
 
 | Tenserflow | Pandas Profiling| Numpy | Pandas | Sklearn |
 |----------|----------|----------|----------|----------|

@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/Salman7292/Salman7292/main/Screenshot%202024-07-19%20001510.png)](https://your-link-here)
+[![MasterHead](https://raw.githubusercontent.com/NAJEEBULLAH302/NAJEEBULLAH302/main/Black%20Simple%20Corporate%20Job%20Vacancy%20LinkedIn%20Single%20Image%20Ad.png)](https://your-link-here)
 
 <h1 align="center">
   <a href="#">

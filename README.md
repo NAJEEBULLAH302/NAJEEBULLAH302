@@ -71,7 +71,7 @@ Join me on The following Platforms, where I share insights, victories, and even 
 
  ---
 <p align="center">
-  <img width="800" height="220" src="https://github-readme-streak-stats.herokuapp.com/?user=salman7292&" alt="salman7292">
+  <img width="800" height="220" src="https://github-readme-streak-stats.herokuapp.com/?user=salman7292&" alt="najeebullah">
 </p>
 
 
@@ -79,5 +79,5 @@ Join me on The following Platforms, where I share insights, victories, and even 
 
 
 <p align="center">
-  <img width="800" height="220" src="https://github-readme-stats.vercel.app/api/top-langs?username=salman7292&show_icons=true&locale=en&layout=compact" alt="salman7292">
+  <img width="800" height="220" src="https://github-readme-stats.vercel.app/api/top-langs?username=Najeeb ullah 7292&show_icons=true&locale=en&layout=compact" alt="Najeeb ullah">
 </p>
